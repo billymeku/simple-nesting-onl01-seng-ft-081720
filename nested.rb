@@ -86,7 +86,7 @@ def adding_matz
  new = programmer_hash["yukihiro_matsumoto"]
  #new_k = new[:known_for] << "ruby"
  #new_l = new_k[:languages] << ["LISP", "C"]
-
+new
 
 def changing_alan
 	programmer_hash = 
